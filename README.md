@@ -8,7 +8,7 @@ This is a base repository that has all the files necessary for building a GitHub
 ## Updating necessary files
 There are several files that you will need to update with your site's information. Each of the lines that need changing are marked with a TODO comment, which makes it easy to search each file for lines that need changing.
 
-**If you would like to see a working example of each of the files for an active GitHub pages site, go to https://github.com/CU-ESIIL/analytics-library**
+**If you would like to see a working example of each of the files for an active GitHub pages site, go to https://github.com/CU-ESIIL/data-library**
 
 ### mkdocs.yml
 This is the configuration file that mkdocs uses to build your site. In it there are several lines that you need to change in order to get your site to build correctly. Each of these lines is commented out and includes a TODO:. Search for 'TODO:' within the file, and update the line according to the comment.
